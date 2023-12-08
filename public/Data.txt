@@ -1,0 +1,56 @@
+
+        Name: undefined,
+        Address: undefined,
+        Phone: undefined,
+        Email: undefined
+        ---------------------------------
+
+    
+        Name: jesus,
+        Address: 123 main street,
+        Phone: 333333,
+        Email: emailss
+        ---------------------------------
+    
+        Name: jesus,
+        Address: 123 main street,
+        Phone: 333333,
+        Email: emailss
+        ---------------------------------
+    
+        Name: Elon musk,
+        Address: 4227 WEST 5700 SOUTH,
+        Phone: 18013810595,
+        Email: jedominguez@student.neumont.edu
+        ---------------------------------
+    
+        Name: Elon musk,
+        Address: 4227 WEST 5700 SOUTH,
+        Phone: 18013810595,
+        Email: jedominguez@student.neumont.edu
+        ---------------------------------
+    
+        Name: Elon musk,
+        Address: 4227 WEST 5700 SOUTH,
+        Phone: 18013810595,
+        Email: jedominguez@student.neumont.edu
+        ---------------------------------
+    
+        Name: Elon musk,
+        Address: 4227 WEST 5700 SOUTH,
+        Phone: 18013810595,
+        Email: jedominguez@student.neumont.edu
+        ---------------------------------
+    
+        Name: Elon musk,
+        Address: 4227 WEST 5700 SOUTH,
+        Phone: 18013810595,
+        Email: jedominguez@student.neumont.edu
+        ---------------------------------
+    
+        Name: Elon musk,
+        Address: 4227 WEST 5700 SOUTH,
+        Phone: 18013810595,
+        Email: jedominguez@student.neumont.edu
+        ---------------------------------
+    

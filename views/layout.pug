@@ -1,0 +1,18 @@
+doctype
+html
+    head
+        title=title
+        link(href='/style.css' rel='stylesheet')
+    body 
+        header 
+            nav
+                ul 
+                    each item in config.menu
+                        a(href=item[1] target=[2])
+                            div(class='menu_item')
+                                li=item[0]
+        h1=title 
+        section
+            block content 
+        footer 
+

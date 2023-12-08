@@ -1,0 +1,30 @@
+html{
+    background-color: #004;
+    color: #fff;
+
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: yellow;
+}
+
+.menu_item{
+    display: inline-block;
+    border: 2px white solid;
+    width: 150px;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    background-color: thistle;
+    cursor: pointer;
+    user-select: none;
+}
+
+.menu_item:hover{
+    background-color: wheat;
+}
